@@ -1,0 +1,1092 @@
+--> 0 NOTE Tyler Seliber
+<-- 0|NOTE|Y|Tyler Seliber
+--> 0 HEAD
+<-- 0|HEAD|Y
+--> 1 SOUR Family Echo
+<-- 1|SOUR|N|Family Echo
+--> 2 WWW http://www.familyecho.com/
+<-- 2|WWW|N|http://www.familyecho.com/
+--> 1 FILE My Family
+<-- 1|FILE|N|My Family
+--> 1 DATE 10 SEP 2022
+<-- 1|DATE|Y|10 SEP 2022
+--> 1 DEST ANSTFILE
+<-- 1|DEST|N|ANSTFILE
+--> 1 GEDC
+<-- 1|GEDC|N|
+--> 2 VERS 5.5.1
+<-- 2|VERS|N|5.5.1
+--> 2 FORM LINEAGE-LINKED
+<-- 2|FORM|N|LINEAGE-LINKED
+--> 1 SUBM @I1@
+<-- 1|SUBM|N|@I1@
+--> 2 NAME carnage_flaky0o@icloud.com
+<-- 2|NAME|Y|carnage_flaky0o@icloud.com
+--> 1 SUBN
+<-- 1|SUBN|N|
+--> 1 CHAR UTF-8
+<-- 1|CHAR|N|UTF-8
+--> 0 @I1@ INDI
+<-- 0|INDI|Y|@I1@
+--> 1 NAME Elon /Musk/
+<-- 1|NAME|Y|Elon /Musk/
+--> 2 GIVN Elon
+<-- 2|GIVN|N|Elon
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 28 JUN 1971
+<-- 2|DATE|Y|28 JUN 1971
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@
+--> 1 FAMC @F6@
+<-- 1|FAMC|Y|@F6@
+--> 0 @I2@ INDI
+<-- 0|INDI|Y|@I2@
+--> 1 NAME Errol /Musk/
+<-- 1|NAME|Y|Errol /Musk/
+--> 2 GIVN Errol
+<-- 2|GIVN|N|Errol
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1943
+<-- 2|DATE|Y|1943
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@
+--> 1 FAMS @F7@
+<-- 1|FAMS|Y|@F7@
+--> 1 FAMS @F8@
+<-- 1|FAMS|Y|@F8@
+--> 1 FAMC @F9@
+<-- 1|FAMC|Y|@F9@
+--> 0 @I3@ INDI
+<-- 0|INDI|Y|@I3@
+--> 1 NAME Maye /Haldeman/
+<-- 1|NAME|Y|Maye /Haldeman/
+--> 2 GIVN Maye
+<-- 2|GIVN|N|Maye
+--> 2 SURN Haldeman
+<-- 2|SURN|N|Haldeman
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 19 APR 1948
+<-- 2|DATE|Y|19 APR 1948
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@
+--> 1 FAMC @F10@
+<-- 1|FAMC|Y|@F10@
+--> 0 @I4@ INDI
+<-- 0|INDI|Y|@I4@
+--> 1 NAME Kimbal /Musk/
+<-- 1|NAME|Y|Kimbal /Musk/
+--> 2 GIVN Kimbal
+<-- 2|GIVN|N|Kimbal
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 20 SEP 1972
+<-- 2|DATE|Y|20 SEP 1972
+--> 1 FAMS @F11@
+<-- 1|FAMS|Y|@F11@
+--> 1 FAMS @F12@
+<-- 1|FAMS|Y|@F12@
+--> 1 FAMC @F6@
+<-- 1|FAMC|Y|@F6@
+--> 0 @I5@ INDI
+<-- 0|INDI|Y|@I5@
+--> 1 NAME Christiana /Wyky/
+<-- 1|NAME|Y|Christiana /Wyky/
+--> 2 GIVN Christiana
+<-- 2|GIVN|N|Christiana
+--> 2 SURN Wyky
+<-- 2|SURN|N|Wyky
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMS @F11@
+<-- 1|FAMS|Y|@F11@
+--> 0 @I6@ INDI
+<-- 0|INDI|Y|@I6@
+--> 1 NAME Jen /Lewin/
+<-- 1|NAME|Y|Jen /Lewin/
+--> 2 GIVN Jen
+<-- 2|GIVN|N|Jen
+--> 2 SURN Lewin
+<-- 2|SURN|N|Lewin
+--> 2 _MARNM Lewin
+<-- 2|_MARNM|N|Lewin
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 9 MAY 1974
+<-- 2|DATE|Y|9 MAY 1974
+--> 1 FAMS @F12@
+<-- 1|FAMS|Y|@F12@
+--> 0 @I7@ INDI
+<-- 0|INDI|Y|@I7@
+--> 1 NAME Luca /Musk/
+<-- 1|NAME|Y|Luca /Musk/
+--> 2 GIVN Luca
+<-- 2|GIVN|N|Luca
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2003
+<-- 2|DATE|Y|2003
+--> 1 FAMC @F12@
+<-- 1|FAMC|Y|@F12@
+--> 0 @I8@ INDI
+<-- 0|INDI|Y|@I8@
+--> 1 NAME August /Musk/
+<-- 1|NAME|Y|August /Musk/
+--> 2 GIVN August
+<-- 2|GIVN|N|August
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMC @F12@
+<-- 1|FAMC|Y|@F12@
+--> 0 @I9@ INDI
+<-- 0|INDI|Y|@I9@
+--> 1 NAME Stella /Musk/
+<-- 1|NAME|Y|Stella /Musk/
+--> 2 GIVN Stella
+<-- 2|GIVN|N|Stella
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMC @F11@
+<-- 1|FAMC|Y|@F11@
+--> 0 @I10@ INDI
+<-- 0|INDI|Y|@I10@
+--> 1 NAME Tosca /Musk/
+<-- 1|NAME|Y|Tosca /Musk/
+--> 2 GIVN Tosca
+<-- 2|GIVN|N|Tosca
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 20 JUL 1974
+<-- 2|DATE|Y|20 JUL 1974
+--> 1 FAMS @F13@
+<-- 1|FAMS|Y|@F13@
+--> 1 FAMC @F6@
+<-- 1|FAMC|Y|@F6@
+--> 2 PEDI birth
+<-- 2|PEDI|N|birth
+--> 0 @I11@ INDI
+<-- 0|INDI|Y|@I11@
+--> 1 NAME Isabeau /Musk/
+<-- 1|NAME|Y|Isabeau /Musk/
+--> 2 GIVN Isabeau
+<-- 2|GIVN|N|Isabeau
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2013
+<-- 2|DATE|Y|2013
+--> 1 FAMC @F13@
+<-- 1|FAMC|Y|@F13@
+--> 0 @I12@ INDI
+<-- 0|INDI|Y|@I12@
+--> 1 NAME Grayson /Musk/
+<-- 1|NAME|Y|Grayson /Musk/
+--> 2 GIVN Grayson
+<-- 2|GIVN|N|Grayson
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2013
+<-- 2|DATE|Y|2013
+--> 1 FAMC @F13@
+<-- 1|FAMC|Y|@F13@
+--> 0 @I13@ INDI
+<-- 0|INDI|Y|@I13@
+--> 1 NAME Heide /Bezuidenhout/
+<-- 1|NAME|Y|Heide /Bezuidenhout/
+--> 2 GIVN Heide
+<-- 2|GIVN|N|Heide
+--> 2 SURN Bezuidenhout
+<-- 2|SURN|N|Bezuidenhout
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1965
+<-- 2|DATE|Y|1965
+--> 1 FAMS @F7@
+<-- 1|FAMS|Y|@F7@
+--> 1 FAMS @F14@
+<-- 1|FAMS|Y|@F14@
+--> 0 @I14@ INDI
+<-- 0|INDI|Y|@I14@
+--> 1 NAME Jock /Bezuidenhout/
+<-- 1|NAME|Y|Jock /Bezuidenhout/
+--> 2 GIVN Jock
+<-- 2|GIVN|N|Jock
+--> 2 SURN Bezuidenhout
+<-- 2|SURN|N|Bezuidenhout
+--> 2 _MARNM Bezuidenhout
+<-- 2|_MARNM|N|Bezuidenhout
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 1992
+<-- 2|DATE|Y|1992
+--> 1 FAMS @F14@
+<-- 1|FAMS|Y|@F14@
+--> 0 @I15@ INDI
+<-- 0|INDI|Y|@I15@
+--> 1 NAME Jana /Bezuidenhout/
+<-- 1|NAME|Y|Jana /Bezuidenhout/
+--> 2 GIVN Jana
+<-- 2|GIVN|N|Jana
+--> 2 SURN Bezuidenhout
+<-- 2|SURN|N|Bezuidenhout
+--> 2 _MARNM Bezuidenhout
+<-- 2|_MARNM|N|Bezuidenhout
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 11 MAR 1988
+<-- 2|DATE|Y|11 MAR 1988
+--> 1 FAMS @F8@
+<-- 1|FAMS|Y|@F8@
+--> 1 FAMC @F14@
+<-- 1|FAMC|Y|@F14@
+--> 0 @I16@ INDI
+<-- 0|INDI|Y|@I16@
+--> 1 NAME Harry /Bezuidenhout/
+<-- 1|NAME|Y|Harry /Bezuidenhout/
+--> 2 GIVN Harry
+<-- 2|GIVN|N|Harry
+--> 2 SURN Bezuidenhout
+<-- 2|SURN|N|Bezuidenhout
+--> 2 _MARNM Bezuidenhout
+<-- 2|_MARNM|N|Bezuidenhout
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMC @F14@
+<-- 1|FAMC|Y|@F14@
+--> 0 @I17@ INDI
+<-- 0|INDI|Y|@I17@
+--> 1 NAME Jock /Bezuidenhout/
+<-- 1|NAME|Y|Jock /Bezuidenhout/
+--> 2 GIVN Jock
+<-- 2|GIVN|N|Jock
+--> 2 NSFX Jr.
+<-- 2|NSFX|N|Jr.
+--> 2 SURN Bezuidenhout
+<-- 2|SURN|N|Bezuidenhout
+--> 2 _MARNM Bezuidenhout
+<-- 2|_MARNM|N|Bezuidenhout
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMC @F14@
+<-- 1|FAMC|Y|@F14@
+--> 0 @I18@ INDI
+<-- 0|INDI|Y|@I18@
+--> 1 NAME Alexandra /Musk/
+<-- 1|NAME|Y|Alexandra /Musk/
+--> 2 GIVN Alexandra
+<-- 2|GIVN|N|Alexandra
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMC @F7@
+<-- 1|FAMC|Y|@F7@
+--> 0 @I19@ INDI
+<-- 0|INDI|Y|@I19@
+--> 1 NAME Rose /Musk/
+<-- 1|NAME|Y|Rose /Musk/
+--> 2 GIVN Rose
+<-- 2|GIVN|N|Rose
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMC @F7@
+<-- 1|FAMC|Y|@F7@
+--> 0 @I20@ INDI
+<-- 0|INDI|Y|@I20@
+--> 1 NAME Elliot Rush /Musk/
+<-- 1|NAME|Y|Elliot Rush /Musk/
+--> 2 GIVN Elliot Rush
+<-- 2|GIVN|N|Elliot Rush
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2017
+<-- 2|DATE|Y|2017
+--> 1 FAMC @F8@
+<-- 1|FAMC|Y|@F8@
+--> 0 @I21@ INDI
+<-- 0|INDI|Y|@I21@
+--> 1 NAME Justine /WIlson/
+<-- 1|NAME|Y|Justine /WIlson/
+--> 2 GIVN Justine
+<-- 2|GIVN|N|Justine
+--> 2 SURN WIlson
+<-- 2|SURN|N|WIlson
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2 SEP 1972
+<-- 2|DATE|Y|2 SEP 1972
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@
+--> 0 @I22@ INDI
+<-- 0|INDI|Y|@I22@
+--> 1 NAME Nevada Alexander /Musk/
+<-- 1|NAME|Y|Nevada Alexander /Musk/
+--> 2 GIVN Nevada Alexander
+<-- 2|GIVN|N|Nevada Alexander
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2002
+<-- 2|DATE|Y|2002
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 2002
+<-- 2|DATE|Y|2002
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I23@ INDI
+<-- 0|INDI|Y|@I23@
+--> 1 NAME Griffin /Musk/
+<-- 1|NAME|Y|Griffin /Musk/
+--> 2 GIVN Griffin
+<-- 2|GIVN|N|Griffin
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2004
+<-- 2|DATE|Y|2004
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I24@ INDI
+<-- 0|INDI|Y|@I24@
+--> 1 NAME Vivian /Musk/
+<-- 1|NAME|Y|Vivian /Musk/
+--> 2 GIVN Vivian
+<-- 2|GIVN|N|Vivian
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Wilson
+<-- 2|_MARNM|N|Wilson
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2004
+<-- 2|DATE|Y|2004
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I25@ INDI
+<-- 0|INDI|Y|@I25@
+--> 1 NAME Kai /Musk/
+<-- 1|NAME|Y|Kai /Musk/
+--> 2 GIVN Kai
+<-- 2|GIVN|N|Kai
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2006
+<-- 2|DATE|Y|2006
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I26@ INDI
+<-- 0|INDI|Y|@I26@
+--> 1 NAME Saxon /Musk/
+<-- 1|NAME|Y|Saxon /Musk/
+--> 2 GIVN Saxon
+<-- 2|GIVN|N|Saxon
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2006
+<-- 2|DATE|Y|2006
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I27@ INDI
+<-- 0|INDI|Y|@I27@
+--> 1 NAME Damian /Musk/
+<-- 1|NAME|Y|Damian /Musk/
+--> 2 GIVN Damian
+<-- 2|GIVN|N|Damian
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 2006
+<-- 2|DATE|Y|2006
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I28@ INDI
+<-- 0|INDI|Y|@I28@
+--> 1 NAME Talulah /Riley/
+<-- 1|NAME|Y|Talulah /Riley/
+--> 2 GIVN Talulah
+<-- 2|GIVN|N|Talulah
+--> 2 SURN Riley
+<-- 2|SURN|N|Riley
+--> 2 _MARNM Riley-Milburn
+<-- 2|_MARNM|N|Riley-Milburn
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 26 SEP 1985
+<-- 2|DATE|Y|26 SEP 1985
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@
+--> 0 @I29@ INDI
+<-- 0|INDI|Y|@I29@
+--> 1 NAME Amber /Heard/
+<-- 1|NAME|Y|Amber /Heard/
+--> 2 GIVN Amber
+<-- 2|GIVN|N|Amber
+--> 2 SURN Heard
+<-- 2|SURN|N|Heard
+--> 2 _MARNM Heard
+<-- 2|_MARNM|N|Heard
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 22 APR 1986
+<-- 2|DATE|Y|22 APR 1986
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@
+--> 0 @I30@ INDI
+<-- 0|INDI|Y|@I30@
+--> 1 NAME Claire Elise /Boucher/
+<-- 1|NAME|Y|Claire Elise /Boucher/
+--> 2 GIVN Claire Elise
+<-- 2|GIVN|N|Claire Elise
+--> 2 NICK Grimes
+<-- 2|NICK|N|Grimes
+--> 2 SURN Boucher
+<-- 2|SURN|N|Boucher
+--> 2 _MARNM Boucher
+<-- 2|_MARNM|N|Boucher
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 17 MAR 1988
+<-- 2|DATE|Y|17 MAR 1988
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@
+--> 0 @I31@ INDI
+<-- 0|INDI|Y|@I31@
+--> 1 NAME X Æ A-Xii /Musk/
+<-- 1|NAME|Y|X Æ A-Xii /Musk/
+--> 2 GIVN X Æ A-Xii
+<-- 2|GIVN|N|X Æ A-Xii
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 4 MAY 2020
+<-- 2|DATE|Y|4 MAY 2020
+--> 1 FAMC @F5@
+<-- 1|FAMC|Y|@F5@
+--> 0 @I32@ INDI
+<-- 0|INDI|Y|@I32@
+--> 1 NAME Exa Dark Sideræl /Musk/
+<-- 1|NAME|Y|Exa Dark Sideræl /Musk/
+--> 2 GIVN Exa Dark Sideræl
+<-- 2|GIVN|N|Exa Dark Sideræl
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 22 DEC 2021
+<-- 2|DATE|Y|22 DEC 2021
+--> 1 FAMC @F5@
+<-- 1|FAMC|Y|@F5@
+--> 0 @I33@ INDI
+<-- 0|INDI|Y|@I33@
+--> 1 NAME Shivon /Zilis/
+<-- 1|NAME|Y|Shivon /Zilis/
+--> 2 GIVN Shivon
+<-- 2|GIVN|N|Shivon
+--> 2 SURN Zilis
+<-- 2|SURN|N|Zilis
+--> 2 _MARNM Zilis
+<-- 2|_MARNM|N|Zilis
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 8 FEB 1986
+<-- 2|DATE|Y|8 FEB 1986
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@
+--> 0 @I34@ INDI
+<-- 0|INDI|Y|@I34@
+--> 1 NAME /Musk/
+<-- 1|NAME|Y|/Musk/
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE NOV 2021
+<-- 2|DATE|Y|NOV 2021
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@
+--> 0 @I35@ INDI
+<-- 0|INDI|Y|@I35@
+--> 1 NAME /Musk/
+<-- 1|NAME|Y|/Musk/
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE NOV 2021
+<-- 2|DATE|Y|NOV 2021
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@
+--> 0 @I36@ INDI
+<-- 0|INDI|Y|@I36@
+--> 1 NAME /Haldeman/
+<-- 1|NAME|Y|/Haldeman/
+--> 2 SURN Haldeman
+<-- 2|SURN|N|Haldeman
+--> 2 _MARNM Haldeman
+<-- 2|_MARNM|N|Haldeman
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMS @F10@
+<-- 1|FAMS|Y|@F10@
+--> 1 FAMS @F15@
+<-- 1|FAMS|Y|@F15@
+--> 0 @I37@ INDI
+<-- 0|INDI|Y|@I37@
+--> 1 NAME Kay /Haldeman/
+<-- 1|NAME|Y|Kay /Haldeman/
+--> 2 GIVN Kay
+<-- 2|GIVN|N|Kay
+--> 2 SURN Haldeman
+<-- 2|SURN|N|Haldeman
+--> 2 _MARNM Rive
+<-- 2|_MARNM|N|Rive
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 19 APR 1948
+<-- 2|DATE|Y|19 APR 1948
+--> 1 FAMS @F16@
+<-- 1|FAMS|Y|@F16@
+--> 1 FAMC @F15@
+<-- 1|FAMC|Y|@F15@
+--> 0 @I38@ INDI
+<-- 0|INDI|Y|@I38@
+--> 1 NAME Lyndon /Rive/
+<-- 1|NAME|Y|Lyndon /Rive/
+--> 2 GIVN Lyndon
+<-- 2|GIVN|N|Lyndon
+--> 2 SURN Rive
+<-- 2|SURN|N|Rive
+--> 2 _MARNM Rive
+<-- 2|_MARNM|N|Rive
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 22 JAN 1977
+<-- 2|DATE|Y|22 JAN 1977
+--> 1 FAMC @F16@
+<-- 1|FAMC|Y|@F16@
+--> 0 @I39@ INDI
+<-- 0|INDI|Y|@I39@
+--> 1 NAME Peter /Rive/
+<-- 1|NAME|Y|Peter /Rive/
+--> 2 GIVN Peter
+<-- 2|GIVN|N|Peter
+--> 2 SURN Rive
+<-- 2|SURN|N|Rive
+--> 2 _MARNM Rive
+<-- 2|_MARNM|N|Rive
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMC @F16@
+<-- 1|FAMC|Y|@F16@
+--> 0 @I40@ INDI
+<-- 0|INDI|Y|@I40@
+--> 1 NAME Russ /Rive/
+<-- 1|NAME|Y|Russ /Rive/
+--> 2 GIVN Russ
+<-- 2|GIVN|N|Russ
+--> 2 SURN Rive
+<-- 2|SURN|N|Rive
+--> 2 _MARNM Rive
+<-- 2|_MARNM|N|Rive
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMC @F16@
+<-- 1|FAMC|Y|@F16@
+--> 0 @I41@ INDI
+<-- 0|INDI|Y|@I41@
+--> 1 NAME Almeda /Rive/
+<-- 1|NAME|Y|Almeda /Rive/
+--> 2 GIVN Almeda
+<-- 2|GIVN|N|Almeda
+--> 2 SURN Rive
+<-- 2|SURN|N|Rive
+--> 2 _MARNM Rive
+<-- 2|_MARNM|N|Rive
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMC @F16@
+<-- 1|FAMC|Y|@F16@
+--> 0 @I42@ INDI
+<-- 0|INDI|Y|@I42@
+--> 1 NAME
+<-- 1|NAME|Y|
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMS @F10@
+<-- 1|FAMS|Y|@F10@
+--> 0 @I43@ INDI
+<-- 0|INDI|Y|@I43@
+--> 1 NAME /Musk/
+<-- 1|NAME|Y|/Musk/
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMS @F9@
+<-- 1|FAMS|Y|@F9@
+--> 0 @I44@ INDI
+<-- 0|INDI|Y|@I44@
+--> 1 NAME /Musk/
+<-- 1|NAME|Y|/Musk/
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 FAMS @F9@
+<-- 1|FAMS|Y|@F9@
+--> 0 @I45@ INDI
+<-- 0|INDI|Y|@I45@
+--> 1 NAME Michael /Musk/
+<-- 1|NAME|Y|Michael /Musk/
+--> 2 GIVN Michael
+<-- 2|GIVN|N|Michael
+--> 2 SURN Musk
+<-- 2|SURN|N|Musk
+--> 2 _MARNM Musk
+<-- 2|_MARNM|N|Musk
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1952
+<-- 2|DATE|Y|1952
+--> 1 FAMC @F9@
+<-- 1|FAMC|Y|@F9@
+--> 0 @F1@ FAM
+<-- 0|FAM|Y|@F1@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I33@
+<-- 1|WIFE|Y|@I33@
+--> 1 CHIL @I34@
+<-- 1|CHIL|Y|@I34@
+--> 1 CHIL @I35@
+<-- 1|CHIL|Y|@I35@
+--> 1 EVEN
+<-- 1|EVEN|N|
+--> 2 TYPE Relationship
+<-- 2|TYPE|N|Relationship
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 1 _PRIMARY Y
+<-- 1|_PRIMARY|N|Y
+--> 0 @F2@ FAM
+<-- 0|FAM|Y|@F2@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I21@
+<-- 1|WIFE|Y|@I21@
+--> 1 CHIL @I22@
+<-- 1|CHIL|Y|@I22@
+--> 1 CHIL @I23@
+<-- 1|CHIL|Y|@I23@
+--> 1 CHIL @I24@
+<-- 1|CHIL|Y|@I24@
+--> 1 CHIL @I25@
+<-- 1|CHIL|Y|@I25@
+--> 1 CHIL @I26@
+<-- 1|CHIL|Y|@I26@
+--> 1 CHIL @I27@
+<-- 1|CHIL|Y|@I27@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 2000
+<-- 2|DATE|Y|2000
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 2008
+<-- 2|DATE|Y|2008
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F3@ FAM
+<-- 0|FAM|Y|@F3@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I28@
+<-- 1|WIFE|Y|@I28@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 2010
+<-- 2|DATE|Y|2010
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 2016
+<-- 2|DATE|Y|2016
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F4@ FAM
+<-- 0|FAM|Y|@F4@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I29@
+<-- 1|WIFE|Y|@I29@
+--> 1 EVEN
+<-- 1|EVEN|N|
+--> 2 TYPE Relationship
+<-- 2|TYPE|N|Relationship
+--> 2 DATE 2017
+<-- 2|DATE|Y|2017
+--> 1 EVEN
+<-- 1|EVEN|N|
+--> 2 TYPE Ending
+<-- 2|TYPE|N|Ending
+--> 2 DATE 2017
+<-- 2|DATE|Y|2017
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F5@ FAM
+<-- 0|FAM|Y|@F5@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I30@
+<-- 1|WIFE|Y|@I30@
+--> 1 CHIL @I31@
+<-- 1|CHIL|Y|@I31@
+--> 1 CHIL @I32@
+<-- 1|CHIL|Y|@I32@
+--> 1 EVEN
+<-- 1|EVEN|N|
+--> 2 TYPE Relationship
+<-- 2|TYPE|N|Relationship
+--> 2 DATE 2018
+<-- 2|DATE|Y|2018
+--> 1 EVEN
+<-- 1|EVEN|N|
+--> 2 TYPE Ending
+<-- 2|TYPE|N|Ending
+--> 2 DATE 2022
+<-- 2|DATE|Y|2022
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F6@ FAM
+<-- 0|FAM|Y|@F6@
+--> 1 HUSB @I2@
+<-- 1|HUSB|Y|@I2@
+--> 1 WIFE @I3@
+<-- 1|WIFE|Y|@I3@
+--> 1 CHIL @I1@
+<-- 1|CHIL|Y|@I1@
+--> 1 CHIL @I4@
+<-- 1|CHIL|Y|@I4@
+--> 1 CHIL @I10@
+<-- 1|CHIL|Y|@I10@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 1970
+<-- 2|DATE|Y|1970
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 1979
+<-- 2|DATE|Y|1979
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 1 _PRIMARY Y
+<-- 1|_PRIMARY|N|Y
+--> 0 @F8@ FAM
+<-- 0|FAM|Y|@F8@
+--> 1 HUSB @I2@
+<-- 1|HUSB|Y|@I2@
+--> 1 WIFE @I15@
+<-- 1|WIFE|Y|@I15@
+--> 1 CHIL @I20@
+<-- 1|CHIL|Y|@I20@
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F7@ FAM
+<-- 0|FAM|Y|@F7@
+--> 1 HUSB @I2@
+<-- 1|HUSB|Y|@I2@
+--> 1 WIFE @I13@
+<-- 1|WIFE|Y|@I13@
+--> 1 CHIL @I18@
+<-- 1|CHIL|Y|@I18@
+--> 1 CHIL @I19@
+<-- 1|CHIL|Y|@I19@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 1992
+<-- 2|DATE|Y|1992
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 2016
+<-- 2|DATE|Y|2016
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F14@ FAM
+<-- 0|FAM|Y|@F14@
+--> 1 HUSB @I14@
+<-- 1|HUSB|Y|@I14@
+--> 1 WIFE @I13@
+<-- 1|WIFE|Y|@I13@
+--> 1 CHIL @I15@
+<-- 1|CHIL|Y|@I15@
+--> 1 CHIL @I16@
+<-- 1|CHIL|Y|@I16@
+--> 1 CHIL @I17@
+<-- 1|CHIL|Y|@I17@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 1 _SEPR
+<-- 1|_SEPR|N|
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F9@ FAM
+<-- 0|FAM|Y|@F9@
+--> 1 HUSB @I43@
+<-- 1|HUSB|Y|@I43@
+--> 1 WIFE @I44@
+<-- 1|WIFE|Y|@I44@
+--> 1 CHIL @I2@
+<-- 1|CHIL|Y|@I2@
+--> 1 CHIL @I45@
+<-- 1|CHIL|Y|@I45@
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 1 _PRIMARY Y
+<-- 1|_PRIMARY|N|Y
+--> 0 @F10@ FAM
+<-- 0|FAM|Y|@F10@
+--> 1 HUSB @I42@
+<-- 1|HUSB|Y|@I42@
+--> 1 WIFE @I36@
+<-- 1|WIFE|Y|@I36@
+--> 1 CHIL @I3@
+<-- 1|CHIL|Y|@I3@
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F15@ FAM
+<-- 0|FAM|Y|@F15@
+--> 1 WIFE @I36@
+<-- 1|WIFE|Y|@I36@
+--> 1 CHIL @I37@
+<-- 1|CHIL|Y|@I37@
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F11@ FAM
+<-- 0|FAM|Y|@F11@
+--> 1 HUSB @I4@
+<-- 1|HUSB|Y|@I4@
+--> 1 WIFE @I5@
+<-- 1|WIFE|Y|@I5@
+--> 1 CHIL @I9@
+<-- 1|CHIL|Y|@I9@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 2018
+<-- 2|DATE|Y|2018
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 1 _PRIMARY Y
+<-- 1|_PRIMARY|N|Y
+--> 0 @F12@ FAM
+<-- 0|FAM|Y|@F12@
+--> 1 HUSB @I4@
+<-- 1|HUSB|Y|@I4@
+--> 1 WIFE @I6@
+<-- 1|WIFE|Y|@I6@
+--> 1 CHIL @I7@
+<-- 1|CHIL|Y|@I7@
+--> 1 CHIL @I8@
+<-- 1|CHIL|Y|@I8@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 2001
+<-- 2|DATE|Y|2001
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 2010
+<-- 2|DATE|Y|2010
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 1 _PRIMARY N
+<-- 1|_PRIMARY|N|N
+--> 0 @F13@ FAM
+<-- 0|FAM|Y|@F13@
+--> 1 WIFE @I10@
+<-- 1|WIFE|Y|@I10@
+--> 1 CHIL @I11@
+<-- 1|CHIL|Y|@I11@
+--> 1 CHIL @I12@
+<-- 1|CHIL|Y|@I12@
+--> 0 @F16@ FAM
+<-- 0|FAM|Y|@F16@
+--> 1 WIFE @I37@
+<-- 1|WIFE|Y|@I37@
+--> 1 CHIL @I38@
+<-- 1|CHIL|Y|@I38@
+--> 1 CHIL @I39@
+<-- 1|CHIL|Y|@I39@
+--> 1 CHIL @I40@
+<-- 1|CHIL|Y|@I40@
+--> 1 CHIL @I41@
+<-- 1|CHIL|Y|@I41@
+--> 0 TRLR
+<-- 0|TRLR|Y
